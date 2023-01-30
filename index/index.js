@@ -1,3 +1,9 @@
+//comandos para executar no terminal:
+//para iniciar o terminal: npm init
+//comando para instalar pacotes: npm install chalk
+//comando para instalar pacotes: npm install readline-sync
+//comando para rodar: node .\order.js
+
 import readlineSync from "readline-sync"
 const propriedades = [];
 let input = "";
