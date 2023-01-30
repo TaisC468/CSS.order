@@ -24,6 +24,16 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha. </p>
 
 <hr> 
 <br>
+
+<h3> Códigos para executar o código no terminal: </h3>
+<p>➥Iniciar Terminal: npm init </p>
+<p>➥Instalação de pacotes: npm install chalk </p>
+<p>➥Instalação de pacotes: npm install readline-sync </p>
+<p>➥Comando para rodar: node .\index.js </p>
+
+<hr> 
+<br>
+
 <h3> Abaixo a imagem mostra o código sendo executado no terminal e retornando a lista ordenada com as propriedades: </h3>
 <br>
 
