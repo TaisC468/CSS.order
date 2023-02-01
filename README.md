@@ -15,12 +15,12 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha. </p>
 <br>
 
 <h3> Ferramentas Utilizadas </h3>
-<p>➥ VS Code </p>
-<p>➥ Node JS </p>
-<p>➥ </p>
-<p>➥ </p>
-<p>➥ </p>
-<p>➥ </p>
+<p>➥ Visual Studio Code: Para fazer e executar o código; </p>
+<p>➥ Node JS: Utilizado para executar o código; </p>
+<p>➥ npm: Instalar os pacotes do NodeJS</p>
+<p>➥ GIITHUB </p>
+
+
 
 <hr> 
 <br>
@@ -34,7 +34,7 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha. </p>
 <hr> 
 <br>
 
-<h3> Abaixo a imagem mostra o código sendo executado no terminal e retornando a lista ordenada com as propriedades: </h3>
+<h3> Segue o código sendo executado e retornando a lista ordenada com as propriedades: </h3>
 <br>
 
 ![resposta lista ordenada](https://user-images.githubusercontent.com/112699437/215507369-497c1195-12f9-4555-a971-09c0fecb88c4.png)
@@ -43,4 +43,4 @@ no terminal a lista das propriedades ordenadas de A-Z uma em cada linha. </p>
 <br>
 <h3> Status: </h3>
 
-<p> Em andamento. </p>
+<p> Finalizado. </p>
